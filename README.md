@@ -6,6 +6,9 @@ Download as a ZIP file by click the green <code> button and then clicking the ZI
 Extract the ZIP file
 Go to the Game folder and run the .exe file
 
+# Source
+If you want to read my code, it is under the code folder
+
 # Development
 - Visual Studio 2022
 - SFML 2.1.5
