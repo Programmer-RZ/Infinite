@@ -1,5 +1,5 @@
-# Geo_CodeHero
-a project thingy
+# Infinite
+A infinite platform where you adventure through an infinite world to save trees from fire!
 
 # How to play
 Download as a ZIP file by click the green <code> button and then clicking the ZIP file button
